@@ -1,4 +1,4 @@
-print("Checking")
+print("PEE PEE PO PO PEE PE POOOO")
 if not _G.Discontinuation then
   local bind = Instance.new("BindableFunction")
   bind.OnInvoke = function(buttonText)
@@ -7,9 +7,9 @@ if not _G.Discontinuation then
       end
   end
   game.StarterGui:SetCore("SendNotification", {
-      Title = "Better Script";
-      Text = "This script is old and outdated, use Eclipse Hub for a faster autofarm (In Discord)!";
-      Duration = 360000;
+      Title = "U SAY AMONGSUS";
+      Text = "edit by Tubers93! lol";
+      Duration = 56;
       Button1 = "Join Discord";
       Callback = bind;
   }) 
